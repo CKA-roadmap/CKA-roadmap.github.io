@@ -13,20 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICIQ DMP docs
-email: dmp@iciq.es
+title: CKA exam
+email: aleixaretra@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Contains the data, tutorials and documentations that are used
-  or were generated during the digitalization process of ICIQ, the Institute of
-  Chemical Research of Catalonia. Mainly, it contains the documentations of the
-  eChempad tool.
-author: ICIQ data steward
+  Contains documentations for the different activities to practise for the CKA exam. It also contains the documentations
+  for other processes and technologies used for the CKA exam.
+author: AleixMT
 
 # Apparently, the deployment to github 4 pages sets the fields baseurl and url for us
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com;
 
-twitter_username: ICIQ
+twitter_username:
 github_username:  AleixMT
 
 # Build settings
@@ -37,8 +35,7 @@ theme: just-the-docs
 
 # Links in the top bar
 aux_links:
-  eChempad Repository: https://github.com/AleixMT/eChempad
-  ICIQ Digitalization panel: https://d.iciq.cat
+  CKA roadmap organization: https://github.com/CKA-roadmap
 
 # Plugins used
 plugins:
@@ -69,7 +66,7 @@ include:
   - _posts
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logoICIQ.png"
+logo: "/assets/images/logoCKA.png"
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.ico"
@@ -111,7 +108,7 @@ heading_anchors: true
 
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: light
+color_scheme: dark
 
 
 # Footer content

@@ -1,7 +1,8 @@
 version: "3.5"
 
 services:
-  jekyll:
+  jekyll_app:
+    image: cka-roadmap:latest
     build:
       context: ./
     ports:

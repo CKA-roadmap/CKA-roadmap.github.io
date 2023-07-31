@@ -5,18 +5,15 @@
 layout: home
 ---
 
-# ICIQ DMP documentation
+# CKA roadmap documentation
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Welcome
-You can find here notes and documentations of the Institut Català d'Investigació Química (ICIQ) data management. 
+You can find here notes and documentations of the Certified Kubernetes Administration (CKA) roadmap. 
 
-This documentation explains how to use the services available for ICIQ researchers to digitalize their research and 
-the data management process happening at ICIQ since 2020.
-
-It also contains the documentation and development notes of the [eChempad](https://github.com/AleixMT/eChempad) 
-platform.
+This documentation explains what to do to practise for the CKA exam. The different activities will be documented in 
+different posts on the sidebar.
 
 Contact [dmp@iciq.es](dmp@iciq.es) if you need more information.
 
