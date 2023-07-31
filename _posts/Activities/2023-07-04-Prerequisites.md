@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Local installation
+title: Prerequisites
 permalink: /Activities/Prerequisites/
 parent: Activities
 nav_order: 1
+has_children: true
 ---
 
 ### Prerequisites

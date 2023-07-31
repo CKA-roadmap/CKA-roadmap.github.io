@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Developer Guide
+title: Activities
 permalink: /Activities/
 has_children: true
 ---
